@@ -7,9 +7,10 @@ This is the official implementation of [MatsVD](https://dl.acm.org/doi/10.1145/3
 https://zenodo.org/doi/10.5281/zenodo.11506329
 
 ## Requirements
-joern=2.0.156  
+joern=2.0.156  (The repository includes the **joern-install.sh**)  
 transformers=4.27.3  
 torch=1.13.1+cu116  
+
 
 ## Run MatsVD
 To retrain the model, run the following script(Training + Inference):
