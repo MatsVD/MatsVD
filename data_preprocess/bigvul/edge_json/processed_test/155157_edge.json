@@ -1,0 +1,1 @@
+[[0, 1, "CFG"], [0, 1, "DOMINATE"], [1, 7, "CFG"], [1, 7, "DOMINATE"], [1, 0, "POST_DOMINATE"], [7, 0, "CFG"], [7, 0, "DOMINATE"], [7, 1, "POST_DOMINATE"], [0, 7, "POST_DOMINATE"]]

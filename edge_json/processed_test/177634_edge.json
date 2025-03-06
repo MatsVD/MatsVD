@@ -1,0 +1,1 @@
+[[0, 1, "AST"], [0, 2, "AST"], [0, 3, "AST"], [0, 5, "AST"], [2, 3, "CFG"], [2, 3, "DOMINATE"], [2, 0, "REACHING_DEF"], [3, 5, "CFG"], [3, 5, "DOMINATE"], [3, 0, "REACHING_DEF"], [3, 2, "POST_DOMINATE"], [5, 0, "REACHING_DEF"], [5, 3, "POST_DOMINATE"], [5, 1, "REF"], [5, 0, "CFG"], [5, 0, "DOMINATE"], [0, 5, "POST_DOMINATE"]]
